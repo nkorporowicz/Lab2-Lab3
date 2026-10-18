@@ -1,0 +1,15 @@
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/bin/Debug/net10.0/Ex.3 Dividing rations
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/bin/Debug/net10.0/Ex.3 Dividing rations.deps.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/bin/Debug/net10.0/Ex.3 Dividing rations.runtimeconfig.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/bin/Debug/net10.0/Ex.3 Dividing rations.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/bin/Debug/net10.0/Ex.3 Dividing rations.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/obj/Debug/net10.0/Ex.3 Dividing rations.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/obj/Debug/net10.0/Ex.3 Dividing rations.AssemblyInfoInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/obj/Debug/net10.0/Ex.3 Dividing rations.AssemblyInfo.cs
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/obj/Debug/net10.0/Ex.3 Dividing rations.csproj.CoreCompileInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/obj/Debug/net10.0/Ex.3 Dividing rations.sourcelink.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/obj/Debug/net10.0/Ex.3 Dividing rations.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/obj/Debug/net10.0/refint/Ex.3 Dividing rations.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/obj/Debug/net10.0/Ex.3 Dividing rations.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/obj/Debug/net10.0/Ex.3 Dividing rations.genruntimeconfig.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.3 Dividing rations/obj/Debug/net10.0/ref/Ex.3 Dividing rations.dll
