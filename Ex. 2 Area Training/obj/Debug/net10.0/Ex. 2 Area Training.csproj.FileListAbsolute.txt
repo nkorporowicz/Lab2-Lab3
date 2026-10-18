@@ -1,0 +1,15 @@
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/bin/Debug/net10.0/Ex. 2 Area Training
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/bin/Debug/net10.0/Ex. 2 Area Training.deps.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/bin/Debug/net10.0/Ex. 2 Area Training.runtimeconfig.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/bin/Debug/net10.0/Ex. 2 Area Training.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/bin/Debug/net10.0/Ex. 2 Area Training.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/obj/Debug/net10.0/Ex. 2 Area Training.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/obj/Debug/net10.0/Ex. 2 Area Training.AssemblyInfoInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/obj/Debug/net10.0/Ex. 2 Area Training.AssemblyInfo.cs
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/obj/Debug/net10.0/Ex. 2 Area Training.csproj.CoreCompileInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/obj/Debug/net10.0/Ex. 2 Area Training.sourcelink.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/obj/Debug/net10.0/Ex. 2 Area Training.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/obj/Debug/net10.0/refint/Ex. 2 Area Training.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/obj/Debug/net10.0/Ex. 2 Area Training.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/obj/Debug/net10.0/Ex. 2 Area Training.genruntimeconfig.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 2 Area Training/obj/Debug/net10.0/ref/Ex. 2 Area Training.dll
