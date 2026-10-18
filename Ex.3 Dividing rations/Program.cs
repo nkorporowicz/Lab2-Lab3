@@ -1,10 +1,10 @@
-﻿Console.WriteLine("Provide the number of rations: ");
+﻿Console.WriteLine("Provide the number of rations:  ");
 int rations = int.Parse(Console.ReadLine()!);
 
-Console.WriteLine("Provide the number of members: ");
+Console.WriteLine("Provide the number of members:  ");
 int members = int.Parse(Console.ReadLine()!);
 
-Console.WriteLine("Provide the number of days: ");
+Console.WriteLine("Provide the number of days:  ");
 int day = int.Parse(Console.ReadLine()!);
 
 int rationsPerMember = rations / members;
