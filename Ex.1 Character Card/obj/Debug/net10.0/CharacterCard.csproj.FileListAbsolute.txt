@@ -1,0 +1,15 @@
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/bin/Debug/net10.0/CharacterCard
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/bin/Debug/net10.0/CharacterCard.deps.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/bin/Debug/net10.0/CharacterCard.runtimeconfig.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/bin/Debug/net10.0/CharacterCard.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/bin/Debug/net10.0/CharacterCard.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/obj/Debug/net10.0/CharacterCard.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/obj/Debug/net10.0/CharacterCard.AssemblyInfoInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/obj/Debug/net10.0/CharacterCard.AssemblyInfo.cs
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/obj/Debug/net10.0/CharacterCard.csproj.CoreCompileInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/obj/Debug/net10.0/CharacterCard.sourcelink.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/obj/Debug/net10.0/CharacterCard.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/obj/Debug/net10.0/refint/CharacterCard.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/obj/Debug/net10.0/CharacterCard.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/obj/Debug/net10.0/CharacterCard.genruntimeconfig.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.1 Character Card/obj/Debug/net10.0/ref/CharacterCard.dll
