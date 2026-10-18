@@ -1,0 +1,15 @@
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/bin/Debug/net10.0/Ex. 7 Age classification
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/bin/Debug/net10.0/Ex. 7 Age classification.deps.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/bin/Debug/net10.0/Ex. 7 Age classification.runtimeconfig.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/bin/Debug/net10.0/Ex. 7 Age classification.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/bin/Debug/net10.0/Ex. 7 Age classification.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/obj/Debug/net10.0/Ex. 7 Age classification.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/obj/Debug/net10.0/Ex. 7 Age classification.AssemblyInfoInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/obj/Debug/net10.0/Ex. 7 Age classification.AssemblyInfo.cs
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/obj/Debug/net10.0/Ex. 7 Age classification.csproj.CoreCompileInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/obj/Debug/net10.0/Ex. 7 Age classification.sourcelink.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/obj/Debug/net10.0/Ex. 7 Age classification.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/obj/Debug/net10.0/refint/Ex. 7 Age classification.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/obj/Debug/net10.0/Ex. 7 Age classification.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/obj/Debug/net10.0/Ex. 7 Age classification.genruntimeconfig.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 7 Age classification/obj/Debug/net10.0/ref/Ex. 7 Age classification.dll
