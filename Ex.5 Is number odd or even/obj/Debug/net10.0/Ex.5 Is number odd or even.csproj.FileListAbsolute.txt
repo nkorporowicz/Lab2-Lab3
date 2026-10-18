@@ -1,0 +1,15 @@
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/bin/Debug/net10.0/Ex.5 Is number odd or even
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/bin/Debug/net10.0/Ex.5 Is number odd or even.deps.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/bin/Debug/net10.0/Ex.5 Is number odd or even.runtimeconfig.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/bin/Debug/net10.0/Ex.5 Is number odd or even.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/bin/Debug/net10.0/Ex.5 Is number odd or even.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/obj/Debug/net10.0/Ex.5 Is number odd or even.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/obj/Debug/net10.0/Ex.5 Is number odd or even.AssemblyInfoInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/obj/Debug/net10.0/Ex.5 Is number odd or even.AssemblyInfo.cs
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/obj/Debug/net10.0/Ex.5 Is number odd or even.csproj.CoreCompileInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/obj/Debug/net10.0/Ex.5 Is number odd or even.sourcelink.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/obj/Debug/net10.0/Ex.5 Is number odd or even.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/obj/Debug/net10.0/refint/Ex.5 Is number odd or even.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/obj/Debug/net10.0/Ex.5 Is number odd or even.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/obj/Debug/net10.0/Ex.5 Is number odd or even.genruntimeconfig.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.5 Is number odd or even/obj/Debug/net10.0/ref/Ex.5 Is number odd or even.dll
