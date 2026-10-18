@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex.3 Dividing rations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddc81e6636ef6e2b48db25243c3eee7d2aec901a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfcdf7ced7d6e1cfaefdc4e5c3a8ff4cb1aae857")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex.3 Dividing rations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex.3 Dividing rations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

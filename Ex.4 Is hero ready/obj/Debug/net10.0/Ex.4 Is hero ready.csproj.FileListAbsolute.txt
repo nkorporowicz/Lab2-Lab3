@@ -1,0 +1,15 @@
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/bin/Debug/net10.0/Ex.4 Is hero ready
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/bin/Debug/net10.0/Ex.4 Is hero ready.deps.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/bin/Debug/net10.0/Ex.4 Is hero ready.runtimeconfig.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/bin/Debug/net10.0/Ex.4 Is hero ready.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/bin/Debug/net10.0/Ex.4 Is hero ready.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/obj/Debug/net10.0/Ex.4 Is hero ready.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/obj/Debug/net10.0/Ex.4 Is hero ready.AssemblyInfoInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/obj/Debug/net10.0/Ex.4 Is hero ready.AssemblyInfo.cs
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/obj/Debug/net10.0/Ex.4 Is hero ready.csproj.CoreCompileInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/obj/Debug/net10.0/Ex.4 Is hero ready.sourcelink.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/obj/Debug/net10.0/Ex.4 Is hero ready.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/obj/Debug/net10.0/refint/Ex.4 Is hero ready.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/obj/Debug/net10.0/Ex.4 Is hero ready.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/obj/Debug/net10.0/Ex.4 Is hero ready.genruntimeconfig.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex.4 Is hero ready/obj/Debug/net10.0/ref/Ex.4 Is hero ready.dll
