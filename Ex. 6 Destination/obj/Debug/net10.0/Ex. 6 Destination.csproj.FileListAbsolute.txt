@@ -1,0 +1,15 @@
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/bin/Debug/net10.0/Ex. 6 Destination
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/bin/Debug/net10.0/Ex. 6 Destination.deps.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/bin/Debug/net10.0/Ex. 6 Destination.runtimeconfig.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/bin/Debug/net10.0/Ex. 6 Destination.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/bin/Debug/net10.0/Ex. 6 Destination.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/obj/Debug/net10.0/Ex. 6 Destination.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/obj/Debug/net10.0/Ex. 6 Destination.AssemblyInfoInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/obj/Debug/net10.0/Ex. 6 Destination.AssemblyInfo.cs
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/obj/Debug/net10.0/Ex. 6 Destination.csproj.CoreCompileInputs.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/obj/Debug/net10.0/Ex. 6 Destination.sourcelink.json
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/obj/Debug/net10.0/Ex. 6 Destination.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/obj/Debug/net10.0/refint/Ex. 6 Destination.dll
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/obj/Debug/net10.0/Ex. 6 Destination.pdb
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/obj/Debug/net10.0/Ex. 6 Destination.genruntimeconfig.cache
+/home/nikola/Desktop/studia/PPRG/Lab2-Lab3/Lab2-Lab3/Ex. 6 Destination/obj/Debug/net10.0/ref/Ex. 6 Destination.dll
